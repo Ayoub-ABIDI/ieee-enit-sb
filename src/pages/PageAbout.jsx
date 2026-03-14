@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { TEAM, FORMER_MESSAGES } from "../constants/data";
-import { Reveal, STag, STitle, SocBtn } from "../components/shared/Helpers";
+import { STag, STitle, SocBtn } from "../components/shared/Helpers";
 
 /* ─────────────────────────────────────────────
    GLOBAL CSS

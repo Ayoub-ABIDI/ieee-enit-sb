@@ -139,7 +139,7 @@ function WIEBackground() {
             width: 6, height: 6, borderRadius: "50%",
             background: i === 0 ? C.pink : i === 1 ? C.purple : C.lavender,
             boxShadow: `0 0 12px ${i === 0 ? C.pink : i === 1 ? C.purple : C.lavender}`,
-            ["--r"]: `${r}px`,
+            "--r": `${r}px`,
             animation: `wie-orbit ${18 + i * 8}s linear ${i * 3}s infinite`,
             opacity: 0.35,
           }}/>
@@ -156,7 +156,7 @@ function WIEBackground() {
           height: Math.random() * 4 + 2,
           borderRadius: "50%",
           background: i % 3 === 0 ? C.pink : i % 3 === 1 ? C.purple : C.lavender,
-          ["--dx"]: `${(Math.random() - 0.5) * 80}px`,
+          "--dx": `${(Math.random() - 0.5) * 80}px`,
           animation: `wie-particle ${Math.random() * 6 + 4}s ease-out ${Math.random() * 8}s infinite`,
           opacity: 0.6,
         }}/>

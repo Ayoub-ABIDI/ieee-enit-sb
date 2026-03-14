@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { EVS } from "../constants/data";
-import { Reveal, STag, STitle } from "../components/shared/Helpers";
+import { STag, STitle } from "../components/shared/Helpers";
 
 /* ─────────────────────────────────────────────
    GLOBAL CSS

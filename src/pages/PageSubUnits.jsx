@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { SUBS } from "../constants/data";
-import { Reveal, STag, STitle } from "../components/shared/Helpers";
+import { STag, STitle } from "../components/shared/Helpers";
 
 const SUBUNIT_PAGES = {
   "WIE SAG":          "WIE",
