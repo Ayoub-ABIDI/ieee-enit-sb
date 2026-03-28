@@ -16,7 +16,7 @@ export const FORMER_MESSAGES = [
     role: "Treasurer 2024 · Vice Chair 2025",
     side: "left",
     color: "#00c48c",
-    msg: `From managing budgets to shaping strategy, my years with IEEE ENIT SB were a masterclass in responsibility and teamwork. The branch gave me skills no classroom could resilience, adaptability, and the art of building something meaningful with a team. To the 2025 executive committee: you stand on strong shoulders. Make us proud.`,
+    msg: `Being part of the ExCom of IEEE ENIT SB for two mandates wasn’t just a role, it was a journey full of challenges, laughter, lessons, and unforgettable moments that shaped me. From leading projects to working across different teams, every experience added a new layer to who I am today. Every achievement, every award, and every initiative we led during these two mandates was never just ours—it was the result of many mandates before us, and it will continue with many after us. The legacy doesn’t stop with us; it continues with others, driven by the same spirit. And as Roua Soyed always say: ‘L ENIT FEKRA WEL FEKRA MATMOUTECH’”`,
   },
   {
     name: "Yosr Jabloun",
@@ -30,8 +30,23 @@ export const FORMER_MESSAGES = [
     role: "Chair 2024 – 2025",
     side: "right",
     color: "#00bfff",
-    msg: `IEEE ENIT SB taught me what real leadership looks like it is not about titles, it is about service. Every workshop, every competition, every late night preparing an event was worth it because of the people around me. This branch has been a launchpad for engineers, innovators and leaders. Keep the flame alive, keep pushing boundaries, and keep shining together.`,
+    msg: `For me, IEEE opened doors I never imagined; all it took was understanding how it works, giving my best, and staying committed. Thanks to the amazing people I worked with during the 2023 and 2024 mandates, we achieved things that had never been done before, winning awards, growing our knowledge, and building something meaningful together. But beyond all that, what matters most are the people we met and the memories we created, moments we’ll always look back on with a smile.`,
   },
+  {
+    name: "Roua Soyed",
+    role: "Secretary 2024",
+    side: "right",
+    color: "#ff008c",
+    msg: `2024 was one of the most wonderful years of my university journey, as I had the honor of serving as a leader within the IEEE ENIT Executive Committee. That experience made the year even more meaningful, filled with unforgettable moments. If I’m certain of one thing, it’s that our time to deliver our message is near because we shine every time we step into the light. Keep the legacy alive and make it even stronger. ✨.`,
+  },
+  {
+    name: "Oumaima Sghayri",
+    role: "Chair 2022 – 2023",
+    side: "right",
+    color: "#ff1100",
+    msg: `DNA does not create family, but IEEE ENIT SB does.`,
+  }
+
 ];
 
 export const EVS = [
